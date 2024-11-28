@@ -1,2 +1,3 @@
 # DesignAlgo
-Just putting some algorithms code  in c++
+Space to host some algorithms code  in c++
+Mostly related to Design and Analysis.
